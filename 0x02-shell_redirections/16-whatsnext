@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "root" | head -n +3
+grep -i "root" /etc/password | head -n +3
