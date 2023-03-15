@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d: -f2,6 | sort 
+cut -d : -f 2,6 | sort 
